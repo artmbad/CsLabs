@@ -22,7 +22,7 @@ class Program
         Console.WriteLine($"самый низкий пинг игрока:{lowping}");
         Console.WriteLine($"средний пинг игроков{srping}");
         Console.WriteLine($"сервер работает?{serverwork}");
-        Console.WriteLine($"версия игры:{versiongame}");
+        Console.WriteLine($"ваша версия игры:{versiongame}");
     }
 
 }
